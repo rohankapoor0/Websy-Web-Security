@@ -1,0 +1,7 @@
+{
+  "name": "Websy - AI Scam Detector",
+  "description": "An advanced AI-powered cybersecurity tool that analyzes websites, checks domain age and SSL status, and uses Gemini Search Grounding to assign a Trust Score to detect scams.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
